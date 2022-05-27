@@ -35,4 +35,4 @@ const userSchema = mongoose.Schema({
 const User = mongoose.model('User',userSchema)
 
 module.exports = { User }
-// user,model,schema 작성g
+// user,model,schema 작성
